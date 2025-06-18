@@ -1,0 +1,15 @@
+@model RailwayTicketSystem.Models.User
+@{
+    ViewData["Title"] = "Signup";
+}
+
+<h2>Signup</h2>
+
+<form asp-action="Signup" method="post">
+    <input type="text" name="Name" placeholder="Name" required /><br />
+    <input type="email" name="Email" placeholder="Email" required /><br />
+    <input type="password" name="Password" placeholder="Password" required /><br />
+    <button type="submit">Signup</button>
+</form>
+
+<a href="/Account/Login">Already have an account? Login</a>

@@ -1,0 +1,36 @@
+@model RailwayTicketSystem.Models.Booking
+
+<h2>Booking</h2>
+
+@if (TempData["Message"] != null)
+{
+    <div class="alert alert-success">@TempData["Message"]</div>
+}
+
+<form asp-action="Booking" method="post">
+    <div class="form-group">
+        <label>From</label>
+        <input asp-for="FromLocation" class="form-control" />
+        <span asp-validation-for="FromLocation" class="text-danger"></span>
+    </div>
+
+    <div class="form-group">
+        <label>To</label>
+        <input asp-for="ToLocation" class="form-control" />
+        <span asp-validation-for="ToLocation" class="text-danger"></span>
+    </div>
+
+    <div class="form-group">
+        <label>Date of Journey</label>
+        <input asp-for="DateOfJourney" type="date" class="form-control" />
+        <span asp-validation-for="DateOfJourney" class="text-danger"></span>
+    </div>
+
+    <div class="form-group">
+        <label>Number of Seats</label>
+        <input asp-for="NumberOfSeats" type="number" class="form-control" />
+        <span asp-validation-for="NumberOfSeats" class="text-danger"></span>
+    </div>
+
+    <button type="submit" class="btn btn-primary">Book Ticket</button>
+</form>
