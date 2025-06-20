@@ -1,5 +1,17 @@
 ﻿<Project>
   <ItemGroup>
+    <StaticWebAssetEndpoint Include="_content/RailwayTicketSystem/css/jquery-ui.css">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\css\jquery-ui.css'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-zxrFT8Gfa1xyJ4t2K16LczW9l\u002B9SznDujnTGP9H89ng="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"42"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022zxrFT8Gfa1xyJ4t2K16LczW9l\u002B9SznDujnTGP9H89ng=\u0022"},{"Name":"Last-Modified","Value":"Fri, 20 Jun 2025 07:33:10 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/RailwayTicketSystem/css/jquery-ui.vgzdm8rq9w.css">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\css\jquery-ui.css'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"vgzdm8rq9w"},{"Name":"integrity","Value":"sha256-zxrFT8Gfa1xyJ4t2K16LczW9l\u002B9SznDujnTGP9H89ng="},{"Name":"label","Value":"_content/RailwayTicketSystem/css/jquery-ui.css"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"42"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022zxrFT8Gfa1xyJ4t2K16LczW9l\u002B9SznDujnTGP9H89ng=\u0022"},{"Name":"Last-Modified","Value":"Fri, 20 Jun 2025 07:33:10 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
     <StaticWebAssetEndpoint Include="_content/RailwayTicketSystem/css/site.b9sayid5wm.css">
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\css\site.css'))</AssetFile>
       <Selectors><![CDATA[[]]]></Selectors>
@@ -23,6 +35,30 @@
       <Selectors><![CDATA[[]]]></Selectors>
       <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-Jtxf9L\u002B5ITKRc1gIRl4VbUpGkRNfOBXjYTdhJD4facM="}]]]></EndpointProperties>
       <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"5430"},{"Name":"Content-Type","Value":"image/x-icon"},{"Name":"ETag","Value":"\u0022Jtxf9L\u002B5ITKRc1gIRl4VbUpGkRNfOBXjYTdhJD4facM=\u0022"},{"Name":"Last-Modified","Value":"Wed, 18 Jun 2025 09:38:50 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/RailwayTicketSystem/js/jquery-ui.min.g5xq5g2cew.js">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\js\jquery-ui.min.js'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"g5xq5g2cew"},{"Name":"integrity","Value":"sha256-rFD7xdQRE13MaBxXvUX4cH0\u002BA9c1eW6b/yZqDHyVJ38="},{"Name":"label","Value":"_content/RailwayTicketSystem/js/jquery-ui.min.js"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"36"},{"Name":"Content-Type","Value":"text/javascript"},{"Name":"ETag","Value":"\u0022rFD7xdQRE13MaBxXvUX4cH0\u002BA9c1eW6b/yZqDHyVJ38=\u0022"},{"Name":"Last-Modified","Value":"Fri, 20 Jun 2025 07:33:10 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/RailwayTicketSystem/js/jquery-ui.min.js">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\js\jquery-ui.min.js'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-rFD7xdQRE13MaBxXvUX4cH0\u002BA9c1eW6b/yZqDHyVJ38="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"36"},{"Name":"Content-Type","Value":"text/javascript"},{"Name":"ETag","Value":"\u0022rFD7xdQRE13MaBxXvUX4cH0\u002BA9c1eW6b/yZqDHyVJ38=\u0022"},{"Name":"Last-Modified","Value":"Fri, 20 Jun 2025 07:33:10 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/RailwayTicketSystem/js/jquery.min.a9ln6vcvl1.js">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\js\jquery.min.js'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"a9ln6vcvl1"},{"Name":"integrity","Value":"sha256-ohJEEWmHUP/SfbPKKZwJnUdQ\u002BxmKmdoiurL/UkYj2ro="},{"Name":"label","Value":"_content/RailwayTicketSystem/js/jquery.min.js"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"88"},{"Name":"Content-Type","Value":"text/javascript"},{"Name":"ETag","Value":"\u0022ohJEEWmHUP/SfbPKKZwJnUdQ\u002BxmKmdoiurL/UkYj2ro=\u0022"},{"Name":"Last-Modified","Value":"Fri, 20 Jun 2025 07:33:10 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/RailwayTicketSystem/js/jquery.min.js">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\js\jquery.min.js'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-ohJEEWmHUP/SfbPKKZwJnUdQ\u002BxmKmdoiurL/UkYj2ro="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"88"},{"Name":"Content-Type","Value":"text/javascript"},{"Name":"ETag","Value":"\u0022ohJEEWmHUP/SfbPKKZwJnUdQ\u002BxmKmdoiurL/UkYj2ro=\u0022"},{"Name":"Last-Modified","Value":"Fri, 20 Jun 2025 07:33:10 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
     <StaticWebAssetEndpoint Include="_content/RailwayTicketSystem/js/site.js">
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\js\site.js'))</AssetFile>
@@ -760,13 +796,13 @@
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\RailwayTicketSystem.026ch6va2e.bundle.scp.css'))</AssetFile>
       <Selectors><![CDATA[[]]]></Selectors>
       <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"026ch6va2e"},{"Name":"integrity","Value":"sha256-WF1IxXIKdXe\u002B80LcTq1gRy2rMQ2W3XBHHuRKOVJyAok="},{"Name":"label","Value":"_content/RailwayTicketSystem/RailwayTicketSystem.bundle.scp.css"}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"1137"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022WF1IxXIKdXe\u002B80LcTq1gRy2rMQ2W3XBHHuRKOVJyAok=\u0022"},{"Name":"Last-Modified","Value":"Wed, 18 Jun 2025 12:04:15 GMT"}]]]></ResponseHeaders>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"1137"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022WF1IxXIKdXe\u002B80LcTq1gRy2rMQ2W3XBHHuRKOVJyAok=\u0022"},{"Name":"Last-Modified","Value":"Fri, 20 Jun 2025 07:39:38 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
     <StaticWebAssetEndpoint Include="_content/RailwayTicketSystem/RailwayTicketSystem.bundle.scp.css">
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\RailwayTicketSystem.026ch6va2e.bundle.scp.css'))</AssetFile>
       <Selectors><![CDATA[[]]]></Selectors>
       <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-WF1IxXIKdXe\u002B80LcTq1gRy2rMQ2W3XBHHuRKOVJyAok="}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"1137"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022WF1IxXIKdXe\u002B80LcTq1gRy2rMQ2W3XBHHuRKOVJyAok=\u0022"},{"Name":"Last-Modified","Value":"Wed, 18 Jun 2025 12:04:15 GMT"}]]]></ResponseHeaders>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"1137"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022WF1IxXIKdXe\u002B80LcTq1gRy2rMQ2W3XBHHuRKOVJyAok=\u0022"},{"Name":"Last-Modified","Value":"Fri, 20 Jun 2025 07:39:38 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
   </ItemGroup>
 </Project>

@@ -5,12 +5,24 @@
       "PackagePath": "staticwebassets\\RailwayTicketSystem.026ch6va2e.bundle.scp.css"
     },
     {
+      "Id": "C:\\Users\\Raj Vickram\\RailwayTicketSystem\\wwwroot\\css\\jquery-ui.css",
+      "PackagePath": "staticwebassets\\css\\jquery-ui.css"
+    },
+    {
       "Id": "C:\\Users\\Raj Vickram\\RailwayTicketSystem\\wwwroot\\css\\site.css",
       "PackagePath": "staticwebassets\\css\\site.css"
     },
     {
       "Id": "C:\\Users\\Raj Vickram\\RailwayTicketSystem\\wwwroot\\favicon.ico",
       "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\Raj Vickram\\RailwayTicketSystem\\wwwroot\\js\\jquery-ui.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery-ui.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Raj Vickram\\RailwayTicketSystem\\wwwroot\\js\\jquery.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery.min.js"
     },
     {
       "Id": "C:\\Users\\Raj Vickram\\RailwayTicketSystem\\wwwroot\\js\\site.js",

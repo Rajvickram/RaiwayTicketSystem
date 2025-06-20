@@ -12,5 +12,7 @@ namespace RailwayTicketSystem.Models
 
         public DbSet<User> Users { get; set; }
         public DbSet<Booking> Bookings { get; set; }
+
+        public DbSet<City> Cities { get; set; }
     }
-}
+}   

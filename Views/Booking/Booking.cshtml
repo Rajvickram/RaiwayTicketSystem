@@ -10,14 +10,12 @@
 <form asp-action="Booking" method="post">
     <div class="form-group">
         <label>From</label>
-        <input asp-for="FromLocation" class="form-control" />
-        <span asp-validation-for="FromLocation" class="text-danger"></span>
+        <input asp-for="FromLocation" class="form-control" id="fromCity" autocomplete="off" />
     </div>
 
     <div class="form-group">
         <label>To</label>
-        <input asp-for="ToLocation" class="form-control" />
-        <span asp-validation-for="ToLocation" class="text-danger"></span>
+        <input asp-for="ToLocation" class="form-control" id="toCity" autocomplete="off" />
     </div>
 
     <div class="form-group">
@@ -34,3 +32,50 @@
 
     <button type="submit" class="btn btn-primary">Book Ticket</button>
 </form>
+
+<!-- ✅ Load jQuery (first) -->
+<script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+
+<!-- ✅ Load jQuery UI CSS -->
+<link rel="stylesheet" href="https://code.jquery.com/ui/1.13.2/themes/base/jquery-ui.css">
+
+<!-- ✅ Load jQuery UI (after jQuery) -->
+<script src="https://code.jquery.com/ui/1.13.2/jquery-ui.min.js"></script>
+
+<!-- ✅ Initialize autocomplete -->
+<script>
+    $(function () {
+        console.log("✅ jQuery & jQuery UI loaded");
+
+        $("#fromCity").autocomplete({
+            source: function (request, response) {
+                $.ajax({
+                    url: "/api/city",
+                    data: { term: request.term },
+                    success: function (data) {
+                        console.log("✅ API response:", data);
+                        response(data);
+                    },
+                    error: function () {
+                        console.error("❌ API error");
+                    }
+                });
+            },
+            minLength: 1
+        });
+
+        $("#toCity").autocomplete({
+            source: function (request, response) {
+                $.ajax({
+                    url: "/api/city",
+                    data: { term: request.term },
+                    success: function (data) {
+                        response(data);
+                    }
+                });
+            },
+            minLength: 1
+        });
+    });
+</script>
+

@@ -147,11 +147,15 @@ C:\Users\Raj Vickram\RailwayTicketSystem\obj\Debug\net9.0\RailwayTicketSystem.cs
 C:\Users\Raj Vickram\RailwayTicketSystem\obj\Debug\net9.0\RailwayTicketSystem.MvcApplicationPartsAssemblyInfo.cache
 C:\Users\Raj Vickram\RailwayTicketSystem\obj\Debug\net9.0\RailwayTicketSystem.RazorAssemblyInfo.cache
 C:\Users\Raj Vickram\RailwayTicketSystem\obj\Debug\net9.0\RailwayTicketSystem.RazorAssemblyInfo.cs
+C:\Users\Raj Vickram\RailwayTicketSystem\obj\Debug\net9.0\RailwayTicketSystem.sourcelink.json
 C:\Users\Raj Vickram\RailwayTicketSystem\obj\Debug\net9.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
 C:\Users\Raj Vickram\RailwayTicketSystem\obj\Debug\net9.0\scopedcss\bundle\RailwayTicketSystem.styles.css
 C:\Users\Raj Vickram\RailwayTicketSystem\obj\Debug\net9.0\scopedcss\projectbundle\RailwayTicketSystem.bundle.scp.css
+C:\Users\Raj Vickram\RailwayTicketSystem\obj\Debug\net9.0\compressed\1g2d856vij-vgzdm8rq9w.gz
 C:\Users\Raj Vickram\RailwayTicketSystem\obj\Debug\net9.0\compressed\f5ltz9ky7z-b9sayid5wm.gz
 C:\Users\Raj Vickram\RailwayTicketSystem\obj\Debug\net9.0\compressed\uk7w1cz7fy-61n19gt1b8.gz
+C:\Users\Raj Vickram\RailwayTicketSystem\obj\Debug\net9.0\compressed\qxb9d6nbbw-g5xq5g2cew.gz
+C:\Users\Raj Vickram\RailwayTicketSystem\obj\Debug\net9.0\compressed\4k7pw0cnfa-a9ln6vcvl1.gz
 C:\Users\Raj Vickram\RailwayTicketSystem\obj\Debug\net9.0\compressed\ihfaomvldm-xtxxf3hu2r.gz
 C:\Users\Raj Vickram\RailwayTicketSystem\obj\Debug\net9.0\compressed\858k1moq8c-bqjiyaj88i.gz
 C:\Users\Raj Vickram\RailwayTicketSystem\obj\Debug\net9.0\compressed\l677p1vijm-c2jlpeoesf.gz

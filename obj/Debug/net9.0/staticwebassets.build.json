@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "pDbIv7CrKPCZZn/576D8m6ovLGjNEFTtdncpO/q6EW8=",
+  "Hash": "e9yll0IVl8a7METhTjavcmuVkLmexwG5fdpfxv/5H74=",
   "Source": "RailwayTicketSystem",
   "BasePath": "_content/RailwayTicketSystem",
   "Mode": "Default",
@@ -78,6 +78,27 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "C:\\Users\\Raj Vickram\\RailwayTicketSystem\\wwwroot\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Identity": "C:\\Users\\Raj Vickram\\RailwayTicketSystem\\obj\\Debug\\net9.0\\compressed\\1g2d856vij-vgzdm8rq9w.gz",
+      "SourceId": "RailwayTicketSystem",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Raj Vickram\\RailwayTicketSystem\\obj\\Debug\\net9.0\\compressed\\",
+      "BasePath": "_content/RailwayTicketSystem",
+      "RelativePath": "css/jquery-ui#[.{fingerprint=vgzdm8rq9w}]?.css.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\Users\\Raj Vickram\\RailwayTicketSystem\\wwwroot\\css\\jquery-ui.css",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "zgg1c03s9c",
+      "Integrity": "o8XpOZy3i8gzIG9WRdeVo1PeoIv8vHrLnBWq7G/ip+Q=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\Raj Vickram\\RailwayTicketSystem\\wwwroot\\css\\jquery-ui.css"
     },
     {
       "Identity": "C:\\Users\\Raj Vickram\\RailwayTicketSystem\\obj\\Debug\\net9.0\\compressed\\1p4sui3e3x-o1o13a6vjx.gz",
@@ -246,6 +267,27 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "C:\\Users\\Raj Vickram\\RailwayTicketSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Identity": "C:\\Users\\Raj Vickram\\RailwayTicketSystem\\obj\\Debug\\net9.0\\compressed\\4k7pw0cnfa-a9ln6vcvl1.gz",
+      "SourceId": "RailwayTicketSystem",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Raj Vickram\\RailwayTicketSystem\\obj\\Debug\\net9.0\\compressed\\",
+      "BasePath": "_content/RailwayTicketSystem",
+      "RelativePath": "js/jquery.min#[.{fingerprint=a9ln6vcvl1}]?.js.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\Users\\Raj Vickram\\RailwayTicketSystem\\wwwroot\\js\\jquery.min.js",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "e7xlpkn7jg",
+      "Integrity": "WlSmlIyA7eQRR1m3R7bnBkJo4qcSX4riUQYesR+BHlM=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\Raj Vickram\\RailwayTicketSystem\\wwwroot\\js\\jquery.min.js"
     },
     {
       "Identity": "C:\\Users\\Raj Vickram\\RailwayTicketSystem\\obj\\Debug\\net9.0\\compressed\\567emfsluc-d7shbmvgxk.gz",
@@ -1025,6 +1067,27 @@
       "OriginalItemSpec": "C:\\Users\\Raj Vickram\\RailwayTicketSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
     },
     {
+      "Identity": "C:\\Users\\Raj Vickram\\RailwayTicketSystem\\obj\\Debug\\net9.0\\compressed\\qxb9d6nbbw-g5xq5g2cew.gz",
+      "SourceId": "RailwayTicketSystem",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Raj Vickram\\RailwayTicketSystem\\obj\\Debug\\net9.0\\compressed\\",
+      "BasePath": "_content/RailwayTicketSystem",
+      "RelativePath": "js/jquery-ui.min#[.{fingerprint=g5xq5g2cew}]?.js.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\Users\\Raj Vickram\\RailwayTicketSystem\\wwwroot\\js\\jquery-ui.min.js",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "iwlq2zpshe",
+      "Integrity": "ntCEXnYM4KChE9PI55VIwW/Dl260KFps9PTPW6XRXlk=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\Raj Vickram\\RailwayTicketSystem\\wwwroot\\js\\jquery-ui.min.js"
+    },
+    {
       "Identity": "C:\\Users\\Raj Vickram\\RailwayTicketSystem\\obj\\Debug\\net9.0\\compressed\\qxst4bchvp-y7v9cxd14o.gz",
       "SourceId": "RailwayTicketSystem",
       "SourceType": "Discovered",
@@ -1403,6 +1466,27 @@
       "OriginalItemSpec": "C:\\Users\\Raj Vickram\\RailwayTicketSystem\\obj\\Debug\\net9.0\\scopedcss\\projectbundle\\RailwayTicketSystem.bundle.scp.css"
     },
     {
+      "Identity": "C:\\Users\\Raj Vickram\\RailwayTicketSystem\\wwwroot\\css\\jquery-ui.css",
+      "SourceId": "RailwayTicketSystem",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Raj Vickram\\RailwayTicketSystem\\wwwroot\\",
+      "BasePath": "_content/RailwayTicketSystem",
+      "RelativePath": "css/jquery-ui#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "vgzdm8rq9w",
+      "Integrity": "zxrFT8Gfa1xyJ4t2K16LczW9l+9SznDujnTGP9H89ng=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\jquery-ui.css"
+    },
+    {
       "Identity": "C:\\Users\\Raj Vickram\\RailwayTicketSystem\\wwwroot\\css\\site.css",
       "SourceId": "RailwayTicketSystem",
       "SourceType": "Discovered",
@@ -1443,6 +1527,48 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\favicon.ico"
+    },
+    {
+      "Identity": "C:\\Users\\Raj Vickram\\RailwayTicketSystem\\wwwroot\\js\\jquery-ui.min.js",
+      "SourceId": "RailwayTicketSystem",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Raj Vickram\\RailwayTicketSystem\\wwwroot\\",
+      "BasePath": "_content/RailwayTicketSystem",
+      "RelativePath": "js/jquery-ui.min#[.{fingerprint}]?.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "g5xq5g2cew",
+      "Integrity": "rFD7xdQRE13MaBxXvUX4cH0+A9c1eW6b/yZqDHyVJ38=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\js\\jquery-ui.min.js"
+    },
+    {
+      "Identity": "C:\\Users\\Raj Vickram\\RailwayTicketSystem\\wwwroot\\js\\jquery.min.js",
+      "SourceId": "RailwayTicketSystem",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Raj Vickram\\RailwayTicketSystem\\wwwroot\\",
+      "BasePath": "_content/RailwayTicketSystem",
+      "RelativePath": "js/jquery.min#[.{fingerprint}]?.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "a9ln6vcvl1",
+      "Integrity": "ohJEEWmHUP/SfbPKKZwJnUdQ+xmKmdoiurL/UkYj2ro=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\js\\jquery.min.js"
     },
     {
       "Identity": "C:\\Users\\Raj Vickram\\RailwayTicketSystem\\wwwroot\\js\\site.js",
@@ -2728,6 +2854,304 @@
   ],
   "Endpoints": [
     {
+      "Route": "css/jquery-ui.css",
+      "AssetFile": "C:\\Users\\Raj Vickram\\RailwayTicketSystem\\obj\\Debug\\net9.0\\compressed\\1g2d856vij-vgzdm8rq9w.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.015873015873"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "62"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"o8XpOZy3i8gzIG9WRdeVo1PeoIv8vHrLnBWq7G/ip+Q=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 20 Jun 2025 07:33:10 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"zxrFT8Gfa1xyJ4t2K16LczW9l+9SznDujnTGP9H89ng=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-zxrFT8Gfa1xyJ4t2K16LczW9l+9SznDujnTGP9H89ng="
+        }
+      ]
+    },
+    {
+      "Route": "css/jquery-ui.css",
+      "AssetFile": "C:\\Users\\Raj Vickram\\RailwayTicketSystem\\wwwroot\\css\\jquery-ui.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "42"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"zxrFT8Gfa1xyJ4t2K16LczW9l+9SznDujnTGP9H89ng=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 20 Jun 2025 07:33:10 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-zxrFT8Gfa1xyJ4t2K16LczW9l+9SznDujnTGP9H89ng="
+        }
+      ]
+    },
+    {
+      "Route": "css/jquery-ui.css.gz",
+      "AssetFile": "C:\\Users\\Raj Vickram\\RailwayTicketSystem\\obj\\Debug\\net9.0\\compressed\\1g2d856vij-vgzdm8rq9w.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "62"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"o8XpOZy3i8gzIG9WRdeVo1PeoIv8vHrLnBWq7G/ip+Q=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 20 Jun 2025 07:33:10 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-o8XpOZy3i8gzIG9WRdeVo1PeoIv8vHrLnBWq7G/ip+Q="
+        }
+      ]
+    },
+    {
+      "Route": "css/jquery-ui.vgzdm8rq9w.css",
+      "AssetFile": "C:\\Users\\Raj Vickram\\RailwayTicketSystem\\obj\\Debug\\net9.0\\compressed\\1g2d856vij-vgzdm8rq9w.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.015873015873"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "62"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"o8XpOZy3i8gzIG9WRdeVo1PeoIv8vHrLnBWq7G/ip+Q=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 20 Jun 2025 07:33:10 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"zxrFT8Gfa1xyJ4t2K16LczW9l+9SznDujnTGP9H89ng=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "vgzdm8rq9w"
+        },
+        {
+          "Name": "label",
+          "Value": "css/jquery-ui.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-zxrFT8Gfa1xyJ4t2K16LczW9l+9SznDujnTGP9H89ng="
+        }
+      ]
+    },
+    {
+      "Route": "css/jquery-ui.vgzdm8rq9w.css",
+      "AssetFile": "C:\\Users\\Raj Vickram\\RailwayTicketSystem\\wwwroot\\css\\jquery-ui.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "42"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"zxrFT8Gfa1xyJ4t2K16LczW9l+9SznDujnTGP9H89ng=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 20 Jun 2025 07:33:10 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "vgzdm8rq9w"
+        },
+        {
+          "Name": "label",
+          "Value": "css/jquery-ui.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-zxrFT8Gfa1xyJ4t2K16LczW9l+9SznDujnTGP9H89ng="
+        }
+      ]
+    },
+    {
+      "Route": "css/jquery-ui.vgzdm8rq9w.css.gz",
+      "AssetFile": "C:\\Users\\Raj Vickram\\RailwayTicketSystem\\obj\\Debug\\net9.0\\compressed\\1g2d856vij-vgzdm8rq9w.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "62"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"o8XpOZy3i8gzIG9WRdeVo1PeoIv8vHrLnBWq7G/ip+Q=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 20 Jun 2025 07:33:10 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "vgzdm8rq9w"
+        },
+        {
+          "Name": "label",
+          "Value": "css/jquery-ui.css.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-o8XpOZy3i8gzIG9WRdeVo1PeoIv8vHrLnBWq7G/ip+Q="
+        }
+      ]
+    },
+    {
       "Route": "css/site.b9sayid5wm.css",
       "AssetFile": "C:\\Users\\Raj Vickram\\RailwayTicketSystem\\obj\\Debug\\net9.0\\compressed\\f5ltz9ky7z-b9sayid5wm.gz",
       "Selectors": [
@@ -3320,6 +3744,602 @@
         {
           "Name": "integrity",
           "Value": "sha256-wfFuuYm+Lh6RbCeeiUqxw334b/hIOkp5j9eokGUM1Y0="
+        }
+      ]
+    },
+    {
+      "Route": "js/jquery-ui.min.g5xq5g2cew.js",
+      "AssetFile": "C:\\Users\\Raj Vickram\\RailwayTicketSystem\\obj\\Debug\\net9.0\\compressed\\qxb9d6nbbw-g5xq5g2cew.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.018518518519"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "53"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ntCEXnYM4KChE9PI55VIwW/Dl260KFps9PTPW6XRXlk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 20 Jun 2025 07:33:10 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"rFD7xdQRE13MaBxXvUX4cH0+A9c1eW6b/yZqDHyVJ38=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "g5xq5g2cew"
+        },
+        {
+          "Name": "label",
+          "Value": "js/jquery-ui.min.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-rFD7xdQRE13MaBxXvUX4cH0+A9c1eW6b/yZqDHyVJ38="
+        }
+      ]
+    },
+    {
+      "Route": "js/jquery-ui.min.g5xq5g2cew.js",
+      "AssetFile": "C:\\Users\\Raj Vickram\\RailwayTicketSystem\\wwwroot\\js\\jquery-ui.min.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "36"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"rFD7xdQRE13MaBxXvUX4cH0+A9c1eW6b/yZqDHyVJ38=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 20 Jun 2025 07:33:10 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "g5xq5g2cew"
+        },
+        {
+          "Name": "label",
+          "Value": "js/jquery-ui.min.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-rFD7xdQRE13MaBxXvUX4cH0+A9c1eW6b/yZqDHyVJ38="
+        }
+      ]
+    },
+    {
+      "Route": "js/jquery-ui.min.g5xq5g2cew.js.gz",
+      "AssetFile": "C:\\Users\\Raj Vickram\\RailwayTicketSystem\\obj\\Debug\\net9.0\\compressed\\qxb9d6nbbw-g5xq5g2cew.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "53"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ntCEXnYM4KChE9PI55VIwW/Dl260KFps9PTPW6XRXlk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 20 Jun 2025 07:33:10 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "g5xq5g2cew"
+        },
+        {
+          "Name": "label",
+          "Value": "js/jquery-ui.min.js.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-ntCEXnYM4KChE9PI55VIwW/Dl260KFps9PTPW6XRXlk="
+        }
+      ]
+    },
+    {
+      "Route": "js/jquery-ui.min.js",
+      "AssetFile": "C:\\Users\\Raj Vickram\\RailwayTicketSystem\\obj\\Debug\\net9.0\\compressed\\qxb9d6nbbw-g5xq5g2cew.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.018518518519"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "53"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ntCEXnYM4KChE9PI55VIwW/Dl260KFps9PTPW6XRXlk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 20 Jun 2025 07:33:10 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"rFD7xdQRE13MaBxXvUX4cH0+A9c1eW6b/yZqDHyVJ38=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-rFD7xdQRE13MaBxXvUX4cH0+A9c1eW6b/yZqDHyVJ38="
+        }
+      ]
+    },
+    {
+      "Route": "js/jquery-ui.min.js",
+      "AssetFile": "C:\\Users\\Raj Vickram\\RailwayTicketSystem\\wwwroot\\js\\jquery-ui.min.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "36"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"rFD7xdQRE13MaBxXvUX4cH0+A9c1eW6b/yZqDHyVJ38=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 20 Jun 2025 07:33:10 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-rFD7xdQRE13MaBxXvUX4cH0+A9c1eW6b/yZqDHyVJ38="
+        }
+      ]
+    },
+    {
+      "Route": "js/jquery-ui.min.js.gz",
+      "AssetFile": "C:\\Users\\Raj Vickram\\RailwayTicketSystem\\obj\\Debug\\net9.0\\compressed\\qxb9d6nbbw-g5xq5g2cew.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "53"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ntCEXnYM4KChE9PI55VIwW/Dl260KFps9PTPW6XRXlk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 20 Jun 2025 07:33:10 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-ntCEXnYM4KChE9PI55VIwW/Dl260KFps9PTPW6XRXlk="
+        }
+      ]
+    },
+    {
+      "Route": "js/jquery.min.a9ln6vcvl1.js",
+      "AssetFile": "C:\\Users\\Raj Vickram\\RailwayTicketSystem\\obj\\Debug\\net9.0\\compressed\\4k7pw0cnfa-a9ln6vcvl1.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.009433962264"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "105"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"WlSmlIyA7eQRR1m3R7bnBkJo4qcSX4riUQYesR+BHlM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 20 Jun 2025 07:33:10 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"ohJEEWmHUP/SfbPKKZwJnUdQ+xmKmdoiurL/UkYj2ro=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "a9ln6vcvl1"
+        },
+        {
+          "Name": "label",
+          "Value": "js/jquery.min.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-ohJEEWmHUP/SfbPKKZwJnUdQ+xmKmdoiurL/UkYj2ro="
+        }
+      ]
+    },
+    {
+      "Route": "js/jquery.min.a9ln6vcvl1.js",
+      "AssetFile": "C:\\Users\\Raj Vickram\\RailwayTicketSystem\\wwwroot\\js\\jquery.min.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "88"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ohJEEWmHUP/SfbPKKZwJnUdQ+xmKmdoiurL/UkYj2ro=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 20 Jun 2025 07:33:10 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "a9ln6vcvl1"
+        },
+        {
+          "Name": "label",
+          "Value": "js/jquery.min.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-ohJEEWmHUP/SfbPKKZwJnUdQ+xmKmdoiurL/UkYj2ro="
+        }
+      ]
+    },
+    {
+      "Route": "js/jquery.min.a9ln6vcvl1.js.gz",
+      "AssetFile": "C:\\Users\\Raj Vickram\\RailwayTicketSystem\\obj\\Debug\\net9.0\\compressed\\4k7pw0cnfa-a9ln6vcvl1.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "105"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"WlSmlIyA7eQRR1m3R7bnBkJo4qcSX4riUQYesR+BHlM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 20 Jun 2025 07:33:10 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "a9ln6vcvl1"
+        },
+        {
+          "Name": "label",
+          "Value": "js/jquery.min.js.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-WlSmlIyA7eQRR1m3R7bnBkJo4qcSX4riUQYesR+BHlM="
+        }
+      ]
+    },
+    {
+      "Route": "js/jquery.min.js",
+      "AssetFile": "C:\\Users\\Raj Vickram\\RailwayTicketSystem\\obj\\Debug\\net9.0\\compressed\\4k7pw0cnfa-a9ln6vcvl1.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.009433962264"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "105"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"WlSmlIyA7eQRR1m3R7bnBkJo4qcSX4riUQYesR+BHlM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 20 Jun 2025 07:33:10 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"ohJEEWmHUP/SfbPKKZwJnUdQ+xmKmdoiurL/UkYj2ro=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-ohJEEWmHUP/SfbPKKZwJnUdQ+xmKmdoiurL/UkYj2ro="
+        }
+      ]
+    },
+    {
+      "Route": "js/jquery.min.js",
+      "AssetFile": "C:\\Users\\Raj Vickram\\RailwayTicketSystem\\wwwroot\\js\\jquery.min.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "88"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ohJEEWmHUP/SfbPKKZwJnUdQ+xmKmdoiurL/UkYj2ro=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 20 Jun 2025 07:33:10 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-ohJEEWmHUP/SfbPKKZwJnUdQ+xmKmdoiurL/UkYj2ro="
+        }
+      ]
+    },
+    {
+      "Route": "js/jquery.min.js.gz",
+      "AssetFile": "C:\\Users\\Raj Vickram\\RailwayTicketSystem\\obj\\Debug\\net9.0\\compressed\\4k7pw0cnfa-a9ln6vcvl1.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "105"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"WlSmlIyA7eQRR1m3R7bnBkJo4qcSX4riUQYesR+BHlM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 20 Jun 2025 07:33:10 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-WlSmlIyA7eQRR1m3R7bnBkJo4qcSX4riUQYesR+BHlM="
         }
       ]
     },
@@ -21310,7 +22330,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 18 Jun 2025 12:04:15 GMT"
+          "Value": "Fri, 20 Jun 2025 07:39:38 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -21371,7 +22391,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 18 Jun 2025 12:04:15 GMT"
+          "Value": "Fri, 20 Jun 2025 07:39:38 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -21416,7 +22436,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 18 Jun 2025 12:04:15 GMT"
+          "Value": "Fri, 20 Jun 2025 07:39:38 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -21471,7 +22491,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 18 Jun 2025 12:04:15 GMT"
+          "Value": "Fri, 20 Jun 2025 07:39:38 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -21532,7 +22552,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 18 Jun 2025 12:04:15 GMT"
+          "Value": "Fri, 20 Jun 2025 07:39:38 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -21577,7 +22597,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 18 Jun 2025 12:04:15 GMT"
+          "Value": "Fri, 20 Jun 2025 07:39:38 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -21632,7 +22652,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 18 Jun 2025 12:04:15 GMT"
+          "Value": "Fri, 20 Jun 2025 07:39:38 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -21685,7 +22705,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 18 Jun 2025 12:04:15 GMT"
+          "Value": "Fri, 20 Jun 2025 07:39:38 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -21722,7 +22742,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 18 Jun 2025 12:04:15 GMT"
+          "Value": "Fri, 20 Jun 2025 07:39:38 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -21769,7 +22789,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 18 Jun 2025 12:04:15 GMT"
+          "Value": "Fri, 20 Jun 2025 07:39:38 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -21822,7 +22842,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 18 Jun 2025 12:04:15 GMT"
+          "Value": "Fri, 20 Jun 2025 07:39:38 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -21859,7 +22879,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 18 Jun 2025 12:04:15 GMT"
+          "Value": "Fri, 20 Jun 2025 07:39:38 GMT"
         },
         {
           "Name": "Cache-Control",
